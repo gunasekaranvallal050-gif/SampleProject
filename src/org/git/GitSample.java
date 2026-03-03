@@ -2,6 +2,12 @@ package org.git;
 
 public class GitSample {
 	
+	private void clone2() {
+		
+		System.out.println("Raghu added the code");
+
+	}
+	
 	
 	public static void main(String[] args) {
 		
