@@ -2,12 +2,18 @@ package org.git;
 
 public class GitSample {
 	
+
+	private void glone1() {
+		
+		System.out.println("Ganesh start the work");
+		System.out.println("Ganesh added the code");
+	}
+
 	private void clone2() {
 		
 		System.out.println("Raghu added the code");
 
 	}
-	
 	
 	public static void main(String[] args) {
 		
