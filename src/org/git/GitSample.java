@@ -13,6 +13,7 @@ public class GitSample {
 		
 		System.out.println("This is Main Method");
 		System.out.println("Git Storage Purpose");
+		System.out.println("Coded is done");
 	}
 
 }
