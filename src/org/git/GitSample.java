@@ -2,7 +2,6 @@ package org.git;
 
 public class GitSample {
 	
-
 	private void glone1() {
 		
 		System.out.println("Ganesh start the work");
@@ -12,6 +11,12 @@ public class GitSample {
 	private void clone2() {
 		
 		System.out.println("Raghu added the code");
+
+	}
+
+	private void clone3() {
+		
+		System.out.println("Suresh coded is done.");
 
 	}
 	
